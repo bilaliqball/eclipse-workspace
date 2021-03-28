@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/bilal.iqbal/Pictures/JARS/iplocator/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bilal.iqbal/Pictures/JARS/iplocator/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bilal.iqbal/Pictures/JARS/iplocator/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bilal.iqbal/Pictures/JARS/iplocator/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bilal.iqbal/Pictures/JARS/iplocator/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bilal.iqbal/Pictures/JARS/iplocator/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bilal.iqbal/Pictures/JARS/iplocator/swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bilal.iqbal/Pictures/JARS/iplocator/org.eclipse.ui.forms_3.7.101.v20170815-1446.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bilal.iqbal/Pictures/JARS/iplocator/org.eclipse.ui.workbench_3.110.1.v20170704-1208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bilal.iqbal/Pictures/JARS/poi-3.17/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bilal.iqbal/Pictures/JARS/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bilal.iqbal/Pictures/JARS/filetransfer/jfxrt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

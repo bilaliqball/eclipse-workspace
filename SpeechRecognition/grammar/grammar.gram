@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+/**
+ * JSGF grammars Grammar file
+ */
+
+grammar grammars;
+
+public <greetings> = (hello world | good morning | hello mighty computer |please | What is your Name | Open Fire fox | Open note pad | Open grammar | Nice to meet you  | thanks | thank you | thank you very much|hello world |good morning|hello mighty computer|please |What is your Name|Open Fire fox |Open note pad |Open grammar |Nice to meet you |thanks |thank you |thank you very much) * ;

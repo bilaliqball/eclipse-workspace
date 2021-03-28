@@ -1,0 +1,12 @@
+#JSGF V1.0;
+
+/**
+ * JSGF grammars Grammar file
+ */
+
+grammar grammars;
+
+public <greetings> = hello world | good morning | hello mighty computer;
+public <startExample> = (please | What is your Name | Open Fire fox | Open note pad | Open grammar | Nice to meet you ) *;
+public <endExample> = [thanks | thank you | thank you very much];
+public <numbers> = (oh | zero | one | two | three | four | five | six | seven | eight | nine) * ;

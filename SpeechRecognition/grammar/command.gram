@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+/**
+ * JSGF commands Grammar file
+ */
+
+grammar commands;
+
+public <startExample> = (please | What is your Name | Open Fire fox | Open note pad | Open grammar |Nice to meet you ) *;
